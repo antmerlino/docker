@@ -27,3 +27,4 @@ jobs:
       run: ./run.sh -e synth
     - name: Deploy to hub.docker.com
       run: ./run.sh synth
+
