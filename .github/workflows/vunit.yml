@@ -27,3 +27,4 @@ jobs:
       run: ./run.sh -e vunit
     - name: Deploy to hub.docker.com
       run: ./run.sh vunit
+
